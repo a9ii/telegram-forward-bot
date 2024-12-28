@@ -56,4 +56,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 📝 Acknowledgements
 - Thanks to [Python](https://www.python.org/) for the amazing language.
 - Thanks to [telebot](https://github.com/eternnoir/pyTelegramBotAPI) for the easy-to-use library.
-```
+
