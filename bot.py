@@ -3,7 +3,7 @@ import telebot
 API_TOKEN = 'YOUR_BOT_API_TOKEN'  # استبدلها برمز API الخاص بالبوت
 bot = telebot.TeleBot(API_TOKEN)
 
-group_chat_id = -100<Groupe_id>  # معرف المجموعة
+group_chat_id = -100<Group_id>  # معرف المجموعة
 channel_id = -100<channel_id>   # معرف القناة
 
 # دالة لتحويل الرسائل
